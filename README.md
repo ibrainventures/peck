@@ -36,4 +36,4 @@ To check your project for spelling mistakes, run the following command:
 
 ---
 
-Peck is an open-sourced software licensed under the **[MIT license](https://opensource.org/licenses/MIT)**.
+Peck is an open-sourced Software licensed under the **[MIT license](https://opensource.org/licenses/MIT)**.
